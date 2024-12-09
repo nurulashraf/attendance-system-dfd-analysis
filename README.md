@@ -1,72 +1,45 @@
+
 ---
 
-# UR-SAD-AS1: System Analysis and Design Assignment 1
+# UniRazak System Analysis and Design Assignment 1 (UR-SAD-AS1)
 
-Welcome to the **UR-SAD-AS1** repository, which contains the deliverables for Assignment 1 of the System Analysis and Design (SAD) course.
+This repository contains the deliverables for **System Analysis and Design Assignment 1**, focusing on creating and analyzing a **Data Flow Diagram (DFD)** for a system.
 
 ## Overview
-
-This project is focused on demonstrating the foundational principles and practices of System Analysis and Design. The deliverables include:
-
-- Problem identification and analysis
-- Use case diagrams and descriptions
-- Context diagrams
-- Data flow diagrams
-- System requirements documentation
-
-These outputs are designed to address a specific business problem and provide structured solutions aligned with SAD methodologies.
-
----
+The project involves the application of system analysis techniques to design a DFD that represents the processes, data stores, and data flows of a given system. The assignment also includes a comprehensive written report and diagram visualizations.
 
 ## Objectives
+- Demonstrate understanding of DFD concepts.
+- Develop a clear and accurate DFD for the assigned system.
+- Document the analysis process and findings in a report.
 
-1. Identify and define the system requirements for a real-world scenario.
-2. Use modelling tools to represent system components and workflows.
-3. Document the analysis and design process effectively.
-
----
+## Tools Used
+- **Draw.io**: For creating the DFD diagrams.
+- **Microsoft Word**: For the written report.
+- **Visual Paradigm**: For detailed diagram modeling.
 
 ## Repository Structure
+- **Instructions.pdf**: Assignment instructions and requirements.
+- **Assignment1_DFD.docx**: The written report providing an in-depth analysis of the system, including DFD explanations.
+- **DFD_Context.vpd**: Visual Paradigm file for the Context DFD.
+- **DFD_Level_0.vpd**: Visual Paradigm file for the Level 0 DFD.
+- **DFD_PDFs**: Exported PDFs of the diagrams for easy viewing.
 
-```plaintext
-├── diagrams/             # Contains UML, DFD, and other graphical representations
-├── documents/            # Detailed documentation for requirements and analysis
-├── presentation/         # Slide deck summarising the project
-├── src/                  # Any supporting scripts or resources used
-└── README.md             # Project overview and instructions
-```
+## File Descriptions
+1. **Instructions.pdf**: Document file containing the assignment prompt and objectives.
+2. **Assignment1_DFD.docx**: A comprehensive report detailing the system analysis and DFDs.
+3. **DFD_Context.vpd**: A Visual Paradigm project file for the Context DFD.
+4. **DFD_Level_0.vpd**: A Visual Paradigm project file for the Level 0 DFD.
+5. **DFD_PDFs/Context.pdf**: PDF version of the Context DFD for review.
+6. **DFD_PDFs/Level_0.pdf**: PDF version of the Level 0 DFD for review.
 
----
+## How to Use
+1. View the assignment requirements in `Instructions.pdf`.
+2. Open `Assignment1_DFD.docx` for detailed explanations and insights.
+3. Use Visual Paradigm to open `.vpd` files for editing or viewing the diagrams.
+4. Alternatively, review the `.pdf` versions of the DFDs in the `DFD_PDFs` folder.
 
-## How to Use This Repository
-
-1. **Explore the Deliverables**  
-   Navigate to the relevant directories to access diagrams, documentation, or other files.
-   
-2. **Learn the Concepts**  
-   The content here is designed to help you understand how to apply SAD principles in a practical scenario. 
-
-3. **Adapt for Your Needs**  
-   Use the examples provided as templates or inspiration for your projects.
-
----
-
-## Tools and Technologies
-
-- **Diagram Tools**: Lucidchart, Draw.io, or Microsoft Visio
-- **Document Editing**: Microsoft Word, Google Docs
-- **Presentation**: Microsoft PowerPoint, Google Slides
+## License
+This repository is for academic purposes only. Unauthorized reproduction or use without permission is prohibited.
 
 ---
-
-## Acknowledgements
-
-- Course: System Analysis and Design (RCIT1793)
-- Instructor: Mr. Zainul Akramin Bin Mohd Drus  
-- Institution: Tun Abdul Razak University (UniRazak), Malaysia 
-
----
-
-Feel free to reach out for suggestions or feedback on this project!  
-
---- 
