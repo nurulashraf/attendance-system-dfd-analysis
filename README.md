@@ -1,7 +1,7 @@
 
 ---
 
-# UniRazak System Analysis and Design Assignment 1 (UR-SAD-AS1)
+# UniRazak System Analysis and Design - Assignment 1
 
 This repository contains the deliverables for **System Analysis and Design Assignment 1**, focusing on creating and analyzing a **Data Flow Diagram (DFD)** for a system.
 
