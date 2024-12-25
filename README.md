@@ -20,6 +20,7 @@ The project involves the application of system analysis techniques to design a D
 
 ## Repository Structure
 ```plaintext
+attendance-system-dfd-analysis/
 ├── DFD_PDFs/                  # Exported PDFs of the diagrams
 │   ├── Context.pdf            
 │   └── Level_0.pdf            
@@ -27,6 +28,7 @@ The project involves the application of system analysis techniques to design a D
 ├── DFD_Context.vpd            # Visual Paradigm file for the Context DFD
 ├── DFD_Level_0.vpd            # Visual Paradigm file for the Level 0 DFD
 ├── Instructions.pdf           # Instructions and requirements for the system
+├── LICENSE                    # Licensing information
 └── README.md                  # Main documentation file
 ```
 
