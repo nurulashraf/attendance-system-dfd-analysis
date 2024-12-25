@@ -26,12 +26,12 @@ The project involves the application of system analysis techniques to design a D
 - **DFD_PDFs**: Exported PDFs of the diagrams for easy viewing.
 
 ## File Descriptions
-1. **Instructions.pdf**: Document file containing the assignment prompt and objectives.
-2. **Assignment1_DFD.docx**: A comprehensive report detailing the system analysis and DFDs.
-3. **DFD_Context.vpd**: A Visual Paradigm project file for the Context DFD.
-4. **DFD_Level_0.vpd**: A Visual Paradigm project file for the Level 0 DFD.
-5. **DFD_PDFs/Context.pdf**: PDF version of the Context DFD for review.
-6. **DFD_PDFs/Level_0.pdf**: PDF version of the Level 0 DFD for review.
+1. **`Instructions.pdf`**: Document file containing the assignment prompt and objectives.
+2. **`Assignment1_DFD`.docx**: A comprehensive report detailing the system analysis and DFDs.
+3. **`DFD_Context.vpd`**: A Visual Paradigm project file for the Context DFD.
+4. **`DFD_Level_0.vpd`**: A Visual Paradigm project file for the Level 0 DFD.
+5. **`DFD_PDFs/Context.pdf`**: PDF version of the Context DFD for review.
+6. **`DFD_PDFs/Level_0.pdf`**: PDF version of the Level 0 DFD for review.
 
 ## How to Use
 1. View the assignment requirements in `Instructions.pdf`.
